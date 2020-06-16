@@ -1,6 +1,6 @@
 # Desafio: descubra as melhores notas de matemática do ENEM 2016
 
-Esta é a minha solução proposta para o desafio da Codenation, para entrar no AceleraDev de Data Science (turma 09/06/2020 - 18/08/2020).
+A minha solução proposta para o desafio da Codenation, para entrar no AceleraDev de Data Science (turma 09/06/2020 - 18/08/2020) está no arquivo [enem-challenge.ipynb](enem-challenge.ipynb).
 
 Obtive um score de 92,56%.
 
