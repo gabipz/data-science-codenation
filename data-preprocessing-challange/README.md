@@ -2,7 +2,7 @@
 
 Neste desafio vamos praticar a manipulação de dados utilizando a biblioteca [pandas](https://pandas.pydata.org/). Manipulação de dados é uma das tarefas mais fundamentais para um cientista de dados e o pandas - biblioteca mais popular do Python no assunto - ajuda a tornar essa tarefa mais agradável.
 
-A solução se encontra no arquivo [black-friday-challange.ipynb](black-friday-challange.ipynb].
+A solução se encontra no arquivo [black-friday-challange.ipynb](black-friday-challange.ipynb).
 
 ## Objetivo
 
