@@ -16,27 +16,27 @@ O programa é dividido em módulos semanais dentro da plataforma. Os módulos co
 
 ## Etapas
 
-[X] Desafio de seleção - [enem-prediction-challenge](enem-prediction-challenge)
+1. [X] Desafio de seleção - [enem-prediction-challenge](enem-prediction-challenge)
 
-[X] Módulo 01 - Introdução (09/06/2020)
+2. [X] Módulo 01 - Introdução (09/06/2020)
 
-[X] Módulo 02 - Manipulação de dados - [data-preprocessing-challange](data-preprocessing-challange) (15/06/2020)
+3. [X] Módulo 02 - Manipulação de dados - [data-preprocessing-challange](data-preprocessing-challange) (15/06/2020)
 
-[ ] Módulo 03 - disponibilizado em: 22/06/2020
+4. [ ] Módulo 03 - disponibilizado em: 22/06/2020
 
-[ ] Módulo 04 - disponibilizado em: 29/06/2020
+5. [ ] Módulo 04 - disponibilizado em: 29/06/2020
 
-[ ] Módulo 05 - disponibilizado em: 06/07/2020
+6. [ ] Módulo 05 - disponibilizado em: 06/07/2020
 
-[ ] Módulo 06 - disponibilizado em: 13/07/2020
+7. [ ] Módulo 06 - disponibilizado em: 13/07/2020
 
-[ ] Módulo 07 - disponibilizado em: 20/07/2020
+8. [ ] Módulo 07 - disponibilizado em: 20/07/2020
 
-[ ] Módulo 08 - disponibilizado em: 27/07/2020
+9. [ ] Módulo 08 - disponibilizado em: 27/07/2020
 
-[ ] Módulo 09 - disponibilizado em: 03/08/2020
+10. [ ] Módulo 09 - disponibilizado em: 03/08/2020
 
-[ ] Módulo 10 - disponibilizado em: 10/08/2020
+11. [ ] Módulo 10 - disponibilizado em: 10/08/2020
 
 
 ## Requisitos
