@@ -22,7 +22,7 @@ O programa é dividido em módulos semanais dentro da plataforma. Os módulos co
 
 3. [X] Módulo 02 - Manipulação/pré-processamento de dados:
 
-[data-preprocessing-challange](02-data-preprocessing-challange) (15/06/2020)
+	Desafio: [data-preprocessing-challange](02-data-preprocessing-challange) (15/06/2020)
 
 4. [X] Módulo 03 - Análise exploratória de dados: [exploratory-data-analysis](03-exploratory-data-analysis) (22/06/2020)
 
