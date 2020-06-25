@@ -4,13 +4,18 @@
 
 - [aula_2_Streamlit_Pandas.py](aula_2_Streamlit_Pandas.py): exemplo de aplicação do Streamlit com Pandas;
 
-Para abrir os arquivos [aula_2_Streamlit.py](aula_2_Streamlit.py) e [aula_2_Streamlit_Pandas.py](aula_2_Streamlit_Pandas.py) é necessário seguir os seguintes passos no Anaconda:
+- [aula_2_Streamlit_aplicacao.py](aula_2_Streamlit_aplicacao.py): aplicação mais robusta.
+
+
+## Requisitos
+
+Para abrir os arquivos é necessário seguir os seguintes passos no Anaconda:
 
 ```
 conda activate [folder_name]
 streamlit run [file_name]
 ```
 
-## Referências
+## Conteúdo
 
 - [Documentação Streamlit](https://docs.streamlit.io/en/latest/api.html)
