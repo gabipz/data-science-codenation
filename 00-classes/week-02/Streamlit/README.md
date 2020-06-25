@@ -1,4 +1,4 @@
-# Segunda Semana
+# Biblioteca Streamlit
 
 - [aula_2_Streamlit.py](aula_2_Streamlit.py): se familiarizando com Streamlit;
 
