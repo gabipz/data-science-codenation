@@ -20,11 +20,17 @@ O programa é dividido em módulos semanais dentro da plataforma. Os módulos co
 
 2. [X] Módulo 01 - Introdução (09/06/2020)
 
-3. [X] Módulo 02 - Manipulação/pré-processamento de dados:
+3. [X] Módulo 02 - Manipulação/pré-processamento de dados (15/06/2020)
 
-	Desafio: [data-preprocessing-challange](02-data-preprocessing-challange) (15/06/2020)
+	- Aula: [semana 2](https://github.com/gabipz/data-science-codenation/tree/master/00-classes/week-02)
 
-4. [X] Módulo 03 - Análise exploratória de dados: [exploratory-data-analysis](03-exploratory-data-analysis) (22/06/2020)
+	- Desafio: [data-preprocessing-challange](02-data-preprocessing-challange) 
+
+4. [X] Módulo 03 - Análise exploratória de dados (22/06/2020)
+
+	- Aula: [semana 3](https://github.com/gabipz/data-science-codenation/tree/master/00-classes/week-03)
+
+	- Desafio: [exploratory-data-analysis](03-basic-statistics-challange) 
 
 5. [ ] Módulo 04 - disponibilizado em: 29/06/2020
 
