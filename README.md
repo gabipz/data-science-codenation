@@ -1,4 +1,7 @@
 # Codenation AceleraDev - Data Science
+
+![Codenation](logo.png)
+
 Data Science Course by Codenation
 
 ## O que é o AceleraDev
@@ -9,9 +12,9 @@ O programa é dividido em módulos semanais dentro da plataforma. Os módulos co
 
 ## Referências
 
-- https://www.codenation.dev/
+- [Codenatio](https://www.codenation.dev/)
 
-- https://github.com/codenation-dev/Data-Science-Online
+- [Codenation - GitHub](https://github.com/codenation-dev/Data-Science-Online)
 
 
 ## Etapas
@@ -30,9 +33,13 @@ O programa é dividido em módulos semanais dentro da plataforma. Os módulos co
 
 	- Aula: [semana 3](https://github.com/gabipz/data-science-codenation/tree/master/00-classes/week-03)
 
-	- Desafio: [exploratory-data-analysis](03-basic-statistics-challange) 
+	- Desafio: [exploratory-data-analysis-challange](03-basic-statistics-challange) 
 
-5. [ ] Módulo 04 - disponibilizado em: 29/06/2020
+5. [X] Módulo 04 - Probabilidade e Estatística (29/06/2020)
+	
+	- Aula: [semana 4](https://github.com/gabipz/data-science-codenation/tree/master/00-classes/week-04)
+
+	- Desafio: [probability-distributions-challange](04-probability-distributions-challange)
 
 6. [ ] Módulo 05 - disponibilizado em: 06/07/2020
 
