@@ -39,6 +39,6 @@ to misinterpretations](https://link.springer.com/content/pdf/10.1007%2Fs10654-01
 
 - [Definition of Power](https://online.stat.psu.edu/stat414/node/304/)
 
-- [https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f](The Math Behind A/B Testing with Example Python Code)
+- [The Math Behind A/B Testing with Example Python Code](https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f)
 
 - [Handy Functions for A/B Testing in Python](https://medium.com/@henryfeng/handy-functions-for-a-b-testing-in-python-f6fdff892a90)
