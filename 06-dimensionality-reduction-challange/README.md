@@ -21,6 +21,14 @@ Neste desafios nós vamos explorar:
 * Seleção de variáveis
 * RFE
 
+## Conteúdos
+
+- [Principal component analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
+
+- [Sklearn - PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+
+- [Sklearn - RFE](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html)
+
 ## Requisitos
 
 Você precisará de Python 3 e pip. É altamente recomendado utilizar ambientes virtuais
