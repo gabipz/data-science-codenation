@@ -12,7 +12,7 @@ O programa é dividido em módulos semanais dentro da plataforma. Os módulos co
 
 ## Referências
 
-- [Codenatio](https://www.codenation.dev/)
+- [Codenation](https://www.codenation.dev/)
 
 - [Codenation - GitHub](https://github.com/codenation-dev/Data-Science-Online)
 
@@ -41,18 +41,41 @@ O programa é dividido em módulos semanais dentro da plataforma. Os módulos co
 
 	- Desafio: [probability-distributions-challange](04-probability-distributions-challange)
 
-6. [ ] Módulo 05 - disponibilizado em: 06/07/2020
+6. [X] Módulo 05 - Testes Estatísticos (06/07/2020)
 
-7. [ ] Módulo 06 - disponibilizado em: 13/07/2020
+	- Aula: [semana 5](https://github.com/gabipz/data-science-codenation/tree/master/00-classes/week-05)
+	
+	- Desafio: [statistical-hypothesis-testing](https://github.com/gabipz/data-science-codenation/tree/master/05-statistical-hypothesis-testing)
 
-8. [ ] Módulo 07 - disponibilizado em: 20/07/2020
+7. [X] Módulo 06 - Redução de dimensionalidade e seleção de features (13/07/2020)
+
+	- Aula: [semana 6](https://github.com/gabipz/data-science-codenation/tree/master/00-classes/week-06)
+	
+	- Desafio: [dimensionality-reduction](https://github.com/gabipz/data-science-codenation/tree/master/06-dimensionality-reduction-challange)
+
+8. [X] Módulo 07 - disponibilizado em: (20/07/2020)
+
+	- Aula: [semana 7](https://github.com/gabipz/data-science-codenation/tree/master/00-classes/week-07)
+	
+	- Desafio: [feature-engineering](https://github.com/gabipz/data-science-codenation/tree/master/07-feature-engineering-challange)
 
 9. [ ] Módulo 08 - disponibilizado em: 27/07/2020
 
+	- Aula: 
+	
+	- Desafio: 
+
 10. [ ] Módulo 09 - disponibilizado em: 03/08/2020
+
+	- Aula: 
+	
+	- Desafio: 
 
 11. [ ] Módulo 10 - disponibilizado em: 10/08/2020
 
+	- Aula: 
+	
+	- Desafio: 
 
 ## Requisitos
 
