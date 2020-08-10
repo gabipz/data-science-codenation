@@ -1,9 +1,8 @@
 # Codenation AceleraDev - Data Science
 <p align="center">
   <img src="https://github.com/gabipz/data-science-codenation/blob/master/logo.png" alt="Codenation"/>
-</p>
-
 Data Science Course by Codenation
+</p>
 
 ## O que é o AceleraDev
 
