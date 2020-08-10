@@ -1,6 +1,7 @@
 # Codenation AceleraDev - Data Science
-
-![Codenation](logo.png)
+<p align="center">
+  <img src="https://github.com/gabipz/data-science-codenation/blob/master/logo.png" alt="Codenation"/>
+</p>
 
 Data Science Course by Codenation
 
@@ -53,29 +54,23 @@ O programa é dividido em módulos semanais dentro da plataforma. Os módulos co
 	
 	- Desafio: [dimensionality-reduction](https://github.com/gabipz/data-science-codenation/tree/master/06-dimensionality-reduction-challange)
 
-8. [X] Módulo 07 - disponibilizado em: (20/07/2020)
+8. [X] Módulo 07 - Engenharia de Features (20/07/2020)
 
 	- Aula: [semana 7](https://github.com/gabipz/data-science-codenation/tree/master/00-classes/week-07)
 	
 	- Desafio: [feature-engineering](https://github.com/gabipz/data-science-codenation/tree/master/07-feature-engineering-challange)
 
-9. [ ] Módulo 08 - disponibilizado em: 27/07/2020
+9. [X] Módulo 08 - Regressão Linear (27/07/2020)
 
-	- Aula: 
+	- Aula: [semana 8](https://github.com/gabipz/data-science-codenation/tree/master/00-classes/week-08)
+
+10. [X] Módulo 09 - TensorFlow, classificação etc (03/08/2020)
+
+	- Aula: [semana 9](https://github.com/gabipz/data-science-codenation/tree/master/00-classes/week-09)
 	
-	- Desafio: 
 
-10. [ ] Módulo 09 - disponibilizado em: 03/08/2020
+11. [X] Módulo 10 - Encerramento (10/08/2020)
 
-	- Aula: 
-	
-	- Desafio: 
-
-11. [ ] Módulo 10 - disponibilizado em: 10/08/2020
-
-	- Aula: 
-	
-	- Desafio: 
 
 ## Requisitos
 
