@@ -1,7 +1,6 @@
 # Codenation AceleraDev - Data Science
 <p align="center">
   <img src="https://github.com/gabipz/data-science-codenation/blob/master/logo.png" alt="Codenation"/>
-Data Science Course by Codenation
 </p>
 
 ## O que é o AceleraDev
@@ -70,6 +69,9 @@ O programa é dividido em módulos semanais dentro da plataforma. Os módulos co
 
 11. [X] Módulo 10 - Encerramento (10/08/2020)
 
+## Certificado
+
+[Certificado de participação](https://drive.google.com/file/d/1_mSCNj8w6UZmzXshJ-V8_2mny0-kJnfj/view?usp=sharing)
 
 ## Requisitos
 
